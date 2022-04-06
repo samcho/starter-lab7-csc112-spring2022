@@ -6,6 +6,7 @@ public class Card {
         NULL, SPADES, CLUBS, DIAMONDS, HEARTS
     }
 
+    // Ranks
     public enum ranks {
         NULL, two, three, four, five, six, seven, eight, nine, ten, jack, king, queen, ace
     }
