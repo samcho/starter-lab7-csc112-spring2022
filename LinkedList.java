@@ -1,6 +1,6 @@
 import java.util.Random;
 
-// linked list for a deck of cards
+// linked list class for a deck of cards
 public class LinkedList {
 
     public Node head;

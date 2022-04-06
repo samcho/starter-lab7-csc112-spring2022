@@ -30,7 +30,7 @@ public class Lab8 {
         deck.print();
         deck.sanity_check(); // because we can all use one
 
-        // shuffle the deck
+        // shuffle the deck (random order)
         deck.shuffle(512);
         deck.print();
         deck.sanity_check(); // because we can all use one
