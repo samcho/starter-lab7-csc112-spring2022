@@ -1,3 +1,4 @@
+// Node class for a bi-directional Linked List of Cards
 public class Node {
 
     public Card data;

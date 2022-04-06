@@ -1,6 +1,7 @@
-
+// Standard French-style cards
 public class Card {
 
+    // Suites
     public enum suites {
         NULL, SPADES, CLUBS, DIAMONDS, HEARTS
     }
